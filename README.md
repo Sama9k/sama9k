@@ -1,20 +1,4 @@
-
-
-<img width="716" height="588" alt="ibis paint brush" src="https://github.com/user-attachments/assets/d7f0cde9-251f-47d2-8594-c714f6a23130" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1024" height="338" alt="sama9k-7-21-2026" src="https://github.com/user-attachments/assets/f53627cf-c8cd-45e1-afef-1ec19311483e" />
 
 
 
@@ -23,6 +7,23 @@
 
 
 ##
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
