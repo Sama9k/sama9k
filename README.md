@@ -4,7 +4,7 @@
 
 
 ##
-<img width="427" height="38" alt="studed shiny divider" src="https://github.com/user-attachments/assets/63144a5a-080a-4d4b-bf45-46d797ff0cd8" />## <img width="427" height="38" alt="studed shiny divider" src="https://github.com/user-attachments/assets/63144a5a-080a-4d4b-bf45-46d797ff0cd8" />
+<img width="427" height="38" alt="studed shiny divider" src="https://github.com/user-attachments/assets/63144a5a-080a-4d4b-bf45-46d797ff0cd8" /> <img width="43" height="18" alt="cool button" src="https://github.com/user-attachments/assets/ca506c5b-a898-458f-8e31-638096973834" /> <img width="427" height="38" alt="studed shiny divider" src="https://github.com/user-attachments/assets/63144a5a-080a-4d4b-bf45-46d797ff0cd8" />
 
 
 
