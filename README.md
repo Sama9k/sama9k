@@ -4,9 +4,8 @@
 
 
 ##
-<img width="427" height="38" alt="studed shiny divider" src="https://github.com/user-attachments/assets/63144a5a-080a-4d4b-bf45-46d797ff0cd8" /> <img width="43" height="18" alt="cool button" src="https://github.com/user-attachments/assets/ca506c5b-a898-458f-8e31-638096973834" /> <img width="427" height="38" alt="studed shiny divider" src="https://github.com/user-attachments/assets/63144a5a-080a-4d4b-bf45-46d797ff0cd8" />
 
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vsj2fywzsvm6322yhgjxot26pe&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=false&bar_color=002b80)](https://github.com/kittinan/spotify-github-profile)
 
 
 
