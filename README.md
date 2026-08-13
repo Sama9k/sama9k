@@ -18,6 +18,10 @@
 <img width="150" height="20" alt="dvd crazy blinki" src="https://github.com/user-attachments/assets/c12bbbb5-f2eb-4c4c-a25b-563fc9684f1b" />
 <img width="150" height="20" alt="i support drawing in class blinki" src="https://github.com/user-attachments/assets/a2bdb9bf-a114-471f-8994-67c5de74e875" />
 
+<img width="99" height="57" alt="I heart people who draw my characters stamp" src="https://github.com/user-attachments/assets/ffd7c1e8-48ba-4fae-bbeb-d4fe16056809" />
+<img width="99" height="56" alt="i heart dinosaurs" src="https://github.com/user-attachments/assets/88607ed4-f57d-43ac-8261-84bfcc206d2e" />
+<img width="99" height="56" alt="600810e2" src="https://github.com/user-attachments/assets/99dbdff3-304c-4ab4-8ec2-4cf39ffe8142" />
+<img width="99" height="55" alt="i heart pizza stamp" src="https://github.com/user-attachments/assets/2bc92fdf-e2e9-4aed-a99f-804d6a97e9d2" />
 
 
 
