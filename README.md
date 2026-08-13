@@ -12,8 +12,8 @@
 <img width="150" height="20" alt="aj blinki" src="https://github.com/user-attachments/assets/8c6c86dc-2897-48ad-95ed-05d232b20f30" />
 <img width="150" height="20" alt="studed shiny blinki" src="https://github.com/user-attachments/assets/cf40f3c9-44e5-4ce5-b1b4-49c612460d4f" />
 <img width="150" height="20" alt="sea blinki" src="https://github.com/user-attachments/assets/f2387bea-3520-457a-9b24-8c744aa62c14" />
-<img width="150" height="20" alt="i play air guitar blinki blue" src="https://github.com/user-attachments/assets/a111341f-1c68-4064-8420-1bac05b21bd6" />
-<img width="150" height="20" alt="i heart pokemon blinki" src="https://github.com/user-attachments/assets/0b30f8fb-1cc9-4b57-96c2-b0fe699a45b7" />
+
+
 
 
 
