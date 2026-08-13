@@ -1,5 +1,8 @@
 <img width="150" height="20" alt="aquarium junki blinnki" src="https://github.com/user-attachments/assets/11e7824b-757a-4a8a-ae17-89c3dfb98d18" />
-<img width="150" height="20" alt="aquarium junki blinnki" src="https://github.com/user-attachments/assets/ffdb5af6-d321-4df9-bf45-e3ec80223405" />
+<img width="150" height="20" alt="i heart pokemon blinki" src="https://github.com/user-attachments/assets/d0a3943c-4d8e-4487-ae3b-c0cab24f1321" />
+<img width="150" height="20" alt="i play air guitar blinki blue" src="https://github.com/user-attachments/assets/40899e2c-cc13-488e-9c2c-773fc30b5de9" />
+<img width="150" height="20" alt="invader zim blinki" src="https://github.com/user-attachments/assets/8a42940d-7d95-40d7-8373-18ebd962ea18" />
+
 
 <img width="1024" height="338" alt="sama9k-7-21-2026" src="https://github.com/user-attachments/assets/f53627cf-c8cd-45e1-afef-1ec19311483e" />
 
