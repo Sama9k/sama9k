@@ -15,6 +15,8 @@
 <img width="150" height="20" alt="aj blinki" src="https://github.com/user-attachments/assets/8c6c86dc-2897-48ad-95ed-05d232b20f30" />
 <img width="150" height="20" alt="studed shiny blinki" src="https://github.com/user-attachments/assets/cf40f3c9-44e5-4ce5-b1b4-49c612460d4f" />
 <img width="150" height="20" alt="sea blinki" src="https://github.com/user-attachments/assets/f2387bea-3520-457a-9b24-8c744aa62c14" />
+<img width="150" height="20" alt="dvd crazy blinki" src="https://github.com/user-attachments/assets/c12bbbb5-f2eb-4c4c-a25b-563fc9684f1b" />
+<img width="150" height="20" alt="i support drawing in class blinki" src="https://github.com/user-attachments/assets/a2bdb9bf-a114-471f-8994-67c5de74e875" />
 
 
 
